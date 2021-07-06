@@ -1,0 +1,9 @@
+# 모델 파일은 제외함
+*.pt
+*.bin
+*.obj
+*.txt
+*.PNG
+*.png
+*.csv
+*.gz
