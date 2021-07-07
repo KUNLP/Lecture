@@ -1,4 +1,5 @@
 #-*- coding: utf-8 -*-
+# copy program using command line arguments
 
 import sys
 
