@@ -1,0 +1,384 @@
+잔 치 국 수 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+납 작 만 두 에 <SP> 떡 볶 이 <SP> 국 물 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> B_사이드 I_사이드 I_사이드 <SP> I_사이드 I_사이드 <SP> O O O	식사주문
+소 고 기 <SP> 김 밥 <SP> 한 <SP> 줄 주 세 요	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 O O O	식사주문
+소 고 기 <SP> 김 밥 <SP> 한 <SP> 개 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 <SP> O O O	식사주문
+김 밥 <SP> 두 <SP> 개 <SP> 주 세 요 <SP> 사 장 님	B_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 <SP> O O O <SP> O O O	식사주문
+바 른 <SP> 김 밥 <SP> 한 <SP> 줄 <SP> 주 세 요 <SP> 먹 고 <SP> 갈 건 데 요	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 <SP> O O O <SP> O O <SP> O O O O	식사주문
+야 채 <SP> 김 밥 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+그 럼 <SP> 소 불 고 기 <SP> 김 밥 <SP> 주 세 요	O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> O O O	식사주문
+먹 고 <SP> 가 려 면 <SP> 한 <SP> 줄 <SP> 안 되 죠 ?	O O <SP> O O O <SP> B_수량 <SP> I_수량 <SP> O O O O	식사주문
+한 <SP> 줄 <SP> 주 세 요	B_수량 <SP> I_수량 <SP> O O O	식사주문
+고 기 <SP> 만 두 <SP> 일 <SP> 인 분 만 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 I_수량 O <SP> O O O	식사주문
+저 도 <SP> 순 대 <SP> 일 <SP> 인 분 <SP> 더 <SP> 주 세 요	O O <SP> B_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 I_수량 <SP> O <SP> O O O	식사주문
+다 시 마 <SP> 좋 아 하 는 데 <SP> 하 나 주 세 요	O O O <SP> O O O O O <SP> B_수량 I_수량 O O O	식사주문
+그 러 면 <SP> 매 운 <SP> 김 밥 <SP> 하 나 <SP> 하 구 요	O O O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+그 러 면 <SP> 매 운 <SP> 김 밥 <SP> 하 나 하 고 <SP> 새 우 <SP> 김 밥 <SP> 하 나 하 고	O O O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 I_수량 O O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 I_수량 O O	식사주문
+돈 가 스 <SP> 김 밥 <SP> 두 <SP> 개 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 <SP> O O O	식사주문
+그 냥 <SP> 단 품 으 로 <SP> 사 도 <SP> 되 나 요 ?	O O <SP> B_메뉴 I_메뉴 O O <SP> O O <SP> O O O O	식사주문
+고 르 기 <SP> 머 리 <SP> 아 프 니 까 <SP> 첫 <SP> 번 째 <SP> 세 트 <SP> 주 세 요	O O O <SP> O O <SP> O O O O <SP> B_세트메뉴 <SP> I_세트메뉴 I_세트메뉴 <SP> I_세트메뉴 I_세트메뉴 <SP> O O O	식사주문
+떡 <SP> 하 나 <SP> 만 두 <SP> 하 나 <SP> 시 키 면 <SP> 한 <SP> 개 씩 <SP> 나 오 나 요 ?	B_메뉴 <SP> B_수량 I_수량 <SP> B_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O <SP> B_조각수 <SP> I_조각수 O <SP> O O O O O	식사주문
+일 단 <SP> 김 밥 <SP> 한 <SP> 줄 하 고 <SP> 떡 볶 이 하 고 <SP> 납 작 <SP> 만 두 하 고 <SP> 고 기 만 두 <SP> 하 고 <SP> 주 세 요	O O <SP> B_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 O O <SP> B_메뉴 I_메뉴 I_메뉴 O O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O O <SP> O O O O <SP> O O <SP> O O O	식사주문
+일 반 <SP> 김 밥 으 로 <SP> 한 <SP> 줄 만	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O O <SP> B_수량 <SP> I_수량 O	식사주문
+김 밥 <SP> 먹 고 <SP> 갈 <SP> 수 <SP> 있 어 요 ?	B_메뉴 I_메뉴 <SP> O O <SP> O <SP> O <SP> O O O O	식사주문
+그 러 면 <SP> 한 <SP> 세 <SP> 줄 <SP> 주 세 요	O O O <SP> O <SP> B_수량 <SP> I_수량 <SP> O O O	식사주문
+그 러 면 <SP> 매 운 맛 도 <SP> 한 <SP> 줄 <SP> 넣 어 주 세 요	O O O <SP> B_맵기 I_맵기 I_맵기 O <SP> B_수량 <SP> I_수량 <SP> O O O O O	식사주문
+아 니 요 <SP> 순 한 <SP> 것 <SP> 두 <SP> 줄 <SP> 매 운 <SP> 것 <SP> 한 <SP> 줄 로 <SP> 주 세 요	O O O <SP> B_맵기 I_맵기 <SP> I_맵기 <SP> B_수량 <SP> I_수량 <SP> B_맵기 I_맵기 <SP> I_맵기 <SP> B_수량 <SP> I_수량 O <SP> O O O	식사주문
+어 묵 <SP> 먹 을 려 면 <SP> 따 로 <SP> 하 나 <SP> 들 고 갈 까 요 ?	B_메뉴 I_메뉴 <SP> O O O O <SP> O O <SP> B_수량 I_수량 <SP> O O O O O O	식사주문
+한 <SP> 개 <SP> 먹 을 건 데 요 <SP> 김 밥 도 <SP> 세 <SP> 줄 씩 이 나 <SP> 돼 서	B_수량 <SP> I_수량 <SP> O O O O O <SP> B_메뉴 I_메뉴 O <SP> B_수량 <SP> I_수량 O O O <SP> O O	식사주문
+순 대 <SP> 일 <SP> 인 분 <SP> 떡 볶 이 <SP> 이 <SP> 인 분 <SP> 튀 김 <SP> 일 <SP> 인 분 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 I_수량 <SP> B_메뉴 I_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 I_수량 <SP> B_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 I_수량 <SP> O O O	식사주문
+이 렇 게 <SP> 두 <SP> 개 <SP> 주 세 요	O O O <SP> B_수량 <SP> I_수량 <SP> O O O	식사주문
+그 럼 <SP> 잘 <SP> 나 가 는 <SP> 거 <SP> 한 <SP> 개 씩 <SP> 다 섯 <SP> 줄 <SP> 주 세 요	O O <SP> O <SP> O O O <SP> O <SP> B_수량 <SP> I_수량 O <SP> B_수량 I_수량 <SP> I_수량 <SP> O O O	식사주문
+그 러 면 <SP> 떡 볶 이 <SP> 일 <SP> 인 분 <SP> 주 세 요	O O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 I_수량 <SP> O O O	식사주문
+그 럼 <SP> 순 대 도 <SP> 하 나 <SP> 주 세 요	O O <SP> B_메뉴 I_메뉴 O <SP> B_수량 I_수량 <SP> O O O	식사주문
+아 니 요 <SP> 간 만 <SP> 넣 어 서 <SP> 주 세 요	O O O <SP> B_재료 O <SP> O O O <SP> O O O	식사주문
+그 럼 <SP> 알 통 떡 볶 이 <SP> 저 거 <SP> 하 나 만 <SP> 주 세 요	O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O <SP> B_수량 I_수량 O <SP> O O O	식사주문
+그 럼 <SP> 오 천 <SP> 원 치 <SP> 주 세 요	O O <SP> B_금액 I_금액 <SP> I_금액 O <SP> O O O	식사주문
+정 식 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> O O <SP> O O O	식사주문
+그 러 면 <SP> 돈 가 스 <SP> 하 나 만 <SP> 주 세 요	O O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 O <SP> O O O	식사주문
+양 송 이 로 <SP> 주 세 요	B_수프 I_수프 I_수프 O <SP> O O O	식사주문
+네 <SP> 그 럼 <SP> 돈 가 스 <SP> 하 나 <SP> 주 세 요	O <SP> O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> O O <SP> O O O	식사주문
+여 기 <SP> 돈 가 스 <SP> 하 나 <SP> 주 세 요	O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> O O <SP> O O O	식사주문
+그 러 면 <SP> 마 르 게 리 타 <SP> 하 나 <SP> 주 세 요	O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+매 콤 <SP> 크 림 <SP> 돈 가 스 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+돈 가 스 요	B_메뉴 I_메뉴 I_메뉴 O	식사주문
+그 러 면 <SP> 큐 브 <SP> 스 테 이 크 덮 밥 <SP> 이 걸 로 <SP> 하 나 <SP> 주 실 래 요 ?	O O O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O <SP> B_수량 I_수량 <SP> O O O O O	식사주문
+네 <SP> 혼 자 <SP> 왔 으 니 까 요	O <SP> B_인원 I_인원 <SP> O O O O O	식사주문
+그 럼 <SP> 불 고 기 <SP> 필 라 프 로 <SP> 하 나 <SP> 주 세 요	O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 O <SP> B_수량 I_수량 <SP> O O O	식사주문
+프 리 마 베 라 <SP> 피 자 <SP> 한 <SP> 개 랑 <SP> 로 제 <SP> 파 스 타 <SP> 그 리 고 <SP> 수 제 <SP> 맥 주 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 <SP> O O O <SP> B_술 I_술 <SP> I_술 I_술 <SP> O O O	식사주문
+여 기 <SP> 우 동 <SP> 하 나 랑 요 <SP> 광 어 초 밥 <SP> 두 <SP> 개 <SP> 시 켜 도 <SP> 되 나 요 ?	O O <SP> B_메뉴 I_메뉴 <SP> B_수량 I_수량 O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 <SP> O O O <SP> O O O O	식사주문
+초 밥 세 트 에 <SP> 초 새 우 만 <SP> 팔 피 하 고 <SP> 튀 김 우 동 <SP> 이 렇 게 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> B_초밥 I_초밥 I_초밥 O <SP> O O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O <SP> O O O	식사주문
+소 자 <SP> 하 나 <SP> 하 고 요	B_사이즈 I_사이즈 <SP> B_수량 I_수량 <SP> O O O	식사주문
+회 초 밥 <SP> 도 시 락 <SP> 하 나 <SP> 해 주 세 요	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O O	식사주문
+그 러 면 <SP> 정 성 모 둠 초 밥 으 로 <SP> 하 나 <SP> 주 세 요	O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 O O <SP> B_수량 I_수량 <SP> O O O	식사주문
+모 둠 초 밥 <SP> 에 이 세 트 <SP> 하 나 <SP> 주 세 요	B_세트메뉴 I_세트메뉴 I_세트메뉴 I_세트메뉴 <SP> I_세트메뉴 I_세트메뉴 I_세트메뉴 I_세트메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+가 츠 동 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+스 시 <SP> 모 둠 <SP> 하 나 <SP> 주 시 겠 어 요 ?	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O O O O	식사주문
+모 둠 초 밥 으 로 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 O O <SP> B_금액 I_금액 <SP> O O O	식사주문
+얼 큰 <SP> 돈 코 츠 <SP> 라 멘 <SP> 이 거 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> O O <SP> B_수량 I_수량 <SP> O O O	식사주문
+모 둠 <SP> 초 밥 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+그 러 면 <SP> 안 심 돈 가 스 로 <SP> 주 세 요	O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> O O O	식사주문
+그 러 면 <SP> 세 트 <SP> 이 걸 로 <SP> 하 나 <SP> 주 세 요	O O O <SP> B_세트메뉴 I_세트메뉴 <SP> O O O <SP> B_수량 I_수량 <SP> O O O	식사주문
+저 는 <SP> 매 운 <SP> 거 <SP> 좋 아 하 니 까 <SP> 탄 탄 멘 <SP> 정 식 으 로 <SP> 주 세 요	O O <SP> O O <SP> O <SP> O O O O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O O <SP> O O O	식사주문
+로 스 가 스 로 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> O O O	식사주문
+그 러 면 <SP> 돈 가 스 김 치 나 베 <SP> 하 나 <SP> 주 세 요	O O O <SP> O O O O O O O <SP> B_수량 I_수량 <SP> O O O	식사주문
+그 럼 <SP> 그 거 <SP> 하 나 <SP> 주 세 요	O O <SP> O O <SP> B_수량 I_수량 <SP> O O O	식사주문
+예 <SP> 이 거 <SP> 하 나 <SP> 주 세 요 <SP>	O <SP> O O <SP> B_수량 I_수량 <SP> O O O <SP>	식사주문
+그 러 면 <SP> 마 이 라 이 스 <SP> 하 나 <SP> 주 세 요 <SP>	O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O <SP>	식사주문
+짬 뽕 <SP> 하 나 <SP> 주 시 겠 어 요 ?	B_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O O O O	식사주문
+볶 음 밥 <SP> 하 나 <SP> 주 시 겠 어 요 ?	B_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O O O O	식사주문
+짜 장 면 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+볶 음 밥 <SP> 하 나 <SP> 주 시 겠 어 요 ?	B_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O O O O	식사주문
+짜 장 면 <SP> 한 <SP> 개 만 <SP> 주 시 겠 어 요 ?	B_메뉴 I_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 O <SP> O O O O O O	식사주문
+짜 장 면 <SP> 하 나 <SP> 주 시 겠 어 요 ?	B_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O O O O	식사주문
+간 짜 장 <SP> 되 죠 ? <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 <SP> O O O <SP> B_수량 I_수량 <SP> O O O	식사주문
+삼 선 짬 뽕 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O	식사주문
+해 물 짬 뽕 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O	식사주문
+삼 선 짬 뽕 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O	식사주문
+아 니 요 <SP> 안 <SP> 맵 게 <SP> 해 서 요 <SP> 짬 뽕 <SP> 하 나 <SP> 해 주 세 요	O O O <SP> O <SP> O O <SP> O O O <SP> B_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O O	식사주문
+잡 채 밥 <SP> 하 나 <SP> 해 주 세 요	B_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O O	식사주문
+양 <SP> 꼬 치 랑 <SP> 마 파 두 부 <SP> 주 세 요	O <SP> O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O	식사주문
+짬 뽕 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+몽 골 리 안 <SP> 비 프 <SP> 하 나 랑 <SP> 창 스 <SP> 스 파 이 스 <SP> 치 킨 <SP> 하 나 <SP> 주 세 요	O O O O <SP> O O <SP> B_수량 I_수량 O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+현 미 밥 으 로 <SP> 주 세 요	B_사이드 I_사이드 I_사이드 O O <SP> O O O	식사주문
+짬 뽕 으 로 <SP> 두 <SP> 개 <SP> 주 세 요	B_메뉴 I_메뉴 O O <SP> B_수량 <SP> I_수량 <SP> O O O	식사주문
+우 동 <SP> 홍 합 <SP> 빼 고 <SP> 한 <SP> 그 릇 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> B_재료 I_재료 <SP> O O <SP> O <SP> O O <SP> O O O	식사주문
+중 화 <SP> 비 빔 밥 <SP> 하 나 <SP> 주 세 요	O O <SP> O O O <SP> B_수량 I_수량 <SP> O O O	식사주문
+차 돌 박 이 볶 음 밥 으 로 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 O O <SP> B_수량 I_수량 <SP> O O O	식사주문
+짬 뽕 밥 으 로 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 O O <SP> B_수량 I_수량 <SP> O O O	식사주문
+짜 장 면 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+볶 음 짬 뽕 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+짬 뽕 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+매 운 <SP> 짬 뽕 으 로 <SP> 한 <SP> 그 릇 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O O <SP> B_수량 <SP> I_수량 I_수량 <SP> O O O	식사주문
+짬 뽕 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+짬 뽕 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> O O O	식사주문
+비 빔 냉 면 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+그 래 요 ? <SP> 곰 탕 <SP> 하 나 <SP> 주 세 요	O O O O <SP> B_메뉴 I_메뉴 <SP> B_가짓수 I_가짓수 <SP> O O O	식사주문
+곤 드 레 비 빔 밥 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+안 녕 하 세 요 <SP> 청 국 장 <SP> 하 나 <SP> 주 세 요	O O O O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+추 천 <SP> 메 뉴 <SP> 한 <SP> 번 <SP> 먹 어 볼 게 요 <SP> 삼 복 누 룽 지 탕 <SP> 하 나 <SP> 주 세 요	O O <SP> O O <SP> O <SP> O <SP> O O O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+육 회 비 빔 밥 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+차 돌 <SP> 된 장 찌 개 <SP> 먹 고 갈 게 요 <SP> 하 나 주 세 요	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O O O <SP> B_수량 I_수량 O O O	식사주문
+네 <SP> 하 나 <SP> 주 세 요	O <SP> B_수량 I_수량 <SP> O O O	식사주문
+그 러 면 <SP> 돌 솥 비 빔 밥 <SP> 하 나 <SP> 주 세 요	O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+하 나 <SP> 주 세 요	B_수량 I_수량 <SP> O O O	식사주문
+삼 인 분 <SP> 주 세 요	B_수량 I_수량 I_수량 <SP> O O O	식사주문
+한 우 국 밥 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O	식사주문
+그 러 면 <SP> 된 장 찌 개 <SP> 하 나 <SP> 주 세 요	O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	식사주문
+그 러 면 <SP> 그 냥 <SP> 돌 솥 비 빔 밥 <SP> 주 세 요	O O O <SP> O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O	식사주문
+잔 치 국 수 <SP> 하 나 <SP> 주 시 겠 어 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O O O O	식사주문
+하 나 <SP> 되 죠 ?	B_수량 I_수량 <SP> O O O	식사주문
+지 금 <SP> 보 리 밥 <SP> 되 나 요 ?	O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> O O O O	식사주문
+중 자 는 <SP> 얼 마 에 요 ?	B_사이즈 O O <SP> O O O O O	가격문의
+세 트 <SP> 메 뉴 로 <SP> 된 <SP> 거 는 <SP> 가 격 이 <SP> 얼 마 에 요 ?	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> O <SP> O O <SP> O O O <SP> O O O O O	가격문의
+그 러 면 <SP> 짬 뽕 은 <SP> 한 <SP> 그 릇 에 <SP> 얼 마 나 <SP> 해 요 ?	O O O <SP> B_메뉴 I_메뉴 O <SP> B_수량 <SP> I_수량 I_수량 O <SP> O O O <SP> O O O	가격문의
+그 러 면 <SP> 4 인 <SP> 가 족 이 <SP> 먹 을 <SP> 수 <SP> 있 는 <SP> 걸 로 <SP> 짬 뽕 이 랑 <SP> 섞 여 서 <SP> 가 격 대 는 <SP> 얼 마 <SP> 정 도 <SP> 지 불 해 야 <SP> 돼 요 ?	O O O <SP> B_인원 I_인원 <SP> I_인원 I_인원 O <SP> O O <SP> O <SP> O O <SP> O O <SP> B_메뉴 I_메뉴 O O <SP> O O O <SP> O O O O <SP> O O <SP> O O <SP> O O O O <SP> O O O	가격문의
+프 라 이 드 <SP> 세 <SP> 마 리 하 고 <SP> 양 념 <SP> 두 <SP> 마 리 <SP> 하 면 <SP> 얼 마 죠 ?	O O O O <SP> B_수량 <SP> I_수량 I_수량 O O <SP> B_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 I_수량 <SP> O O <SP> O O O O	가격문의
+포 장 <SP> 시 <SP> 무 를 <SP> 추 가 하 면 <SP> 얼 마 인 가 요 ?	O O <SP> O <SP> B_반찬 O <SP> O O O O <SP> O O O O O O	가격문의
+날 개 하 고 <SP> 봉 <SP> 그 건 <SP> 얼 마 지 요 ?	B_재료 I_재료 O O <SP> B_재료 <SP> O O <SP> O O O O O	가격문의
+퀵 비 랑 <SP> 그 게 <SP> 없 이 <SP> 그 <SP> 가 격 이 에 요 ? <SP> 1 9 0 0 0 원 이 었 던 가 <SP> 1 7 0 0 0 원 이 었 던 가	O O O <SP> O O <SP> O O <SP> O <SP> O O O O O O <SP> B_금액 I_금액 I_금액 I_금액 I_금액 I_금액 O O O O <SP> B_금액 I_금액 I_금액 I_금액 I_금액 I_금액 O O O O	가격문의
+그 <SP> 저 <SP> 여 기 <SP> 양 념 <SP> 된 <SP> 거 <SP> 하 고 <SP> 안 된 <SP> 거 <SP> 하 고 <SP> 프 라 이 드 는 <SP> 얼 마 에 요 ?	O <SP> O <SP> O O <SP> B_메뉴 I_메뉴 <SP> O <SP> O <SP> O O <SP> O O <SP> O <SP> O O <SP> O O O O O <SP> O O O O O	가격문의
+후 라 이 드 는 <SP> 얼 마 에 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> O O O O O	가격문의
+그 럼 <SP> 뼈 <SP> 있 는 <SP> 건 <SP> 얼 마 에 요 ?	O O <SP> B_메뉴 <SP> O O <SP> O <SP> O O O O O	가격문의
+순 살 도 <SP> 마 찬 가 지 네 요 <SP> 가 격 은 ?	B_메뉴 I_메뉴 O <SP> O O O O O O <SP> O O O O	가격문의
+사 십 <SP> 프 로 <SP> 할 인 하 면 <SP> 얼 마 인 가 요 ?	B_할인율 I_할인율 <SP> I_할인율 I_할인율 <SP> O O O O <SP> O O O O O O	가격문의
+대 자 <SP> 두 <SP> 개 <SP> 얼 마 죠 ?	B_사이즈 I_사이즈 <SP> B_수량 <SP> I_수량 <SP> O O O O	가격문의
+벌 집 <SP> 피 자 는 <SP> 라 지 <SP> 사 이 즈 는 <SP> 얼 마 지 요 ?	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> B_사이즈 I_사이즈 <SP> O O O O <SP> O O O O O	가격문의
+한 <SP> 판 은 <SP> 가 격 이 <SP> 얼 마 에 요 ?	B_수량 <SP> I_수량 O <SP> O O O <SP> O O O O O	가격문의
+라 지 는 <SP> 가 격 대 는 <SP> 어 떻 게 <SP> 되 나 요 ?	B_사이즈 I_사이즈 O <SP> O O O O <SP> O O O <SP> O O O O	가격문의
+아 <SP> 간 장 치 킨 <SP> 가 격 은 <SP> 얼 만 데 요 ?	O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O <SP> O O O O O	가격문의
+아 <SP> 그 래 요 <SP> 후 라 이 드 <SP> 플 러 스 <SP> 슈 프 림 치 킨 <SP> 반 반 하 면 <SP> 얼 마 죠 ?	O <SP> O O O <SP> O O O O <SP> O O O <SP> O O O O O <SP> B_메뉴 I_메뉴 O O <SP> O O O O	가격문의
+그 러 면 <SP> 간 짜 장 이 <SP> 더 <SP> 비 싸 겠 는 데 <SP> 얼 마 에 요 ?	O O O <SP> B_메뉴 I_메뉴 I_메뉴 O <SP> O <SP> O O O O O <SP> O O O O O	가격문의
+그 냥 <SP> 짜 장 은 요 ?	O O <SP> B_메뉴 I_메뉴 O O O	가격문의
+양 장 피 는 <SP> 가 격 이 <SP> 어 떻 게 <SP> 해 요 ?	B_메뉴 I_메뉴 I_메뉴 O <SP> O O O <SP> O O O <SP> O O O	가격문의
+유 산 슬 은 <SP> 얼 마 입 니 까 ?	B_메뉴 I_메뉴 I_메뉴 O <SP> O O O O O O	가격문의
+5 0 0 0 원 <SP> 차 이 네 요 ?	B_금액 I_금액 I_금액 I_금액 I_금액 <SP> O O O O O	가격문의
+대 자 는 <SP> 얼 마 에 요 ?	B_사이즈 I_사이즈 O <SP> O O O O O	가격문의
+차 돌 박 이 <SP> 짬 뽕 은 <SP> 얼 만 데 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> O O O O O	가격문의
+나 홀 로 <SP> 세 트 는 <SP> 얼 마 에 요 ?	B_세트메뉴 I_세트메뉴 I_세트메뉴 <SP> I_세트메뉴 I_세트메뉴 O <SP> O O O O O	가격문의
+새 우 탕 수 육 <SP> 작 은 <SP> 건 <SP> 얼 만 데 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_사이즈 I_사이즈 <SP> I_사이즈 <SP> O O O O O	가격문의
+미 디 엄 은 <SP> 얼 마 에 요 ?	B_사이즈 I_사이즈 I_사이즈 O <SP> O O O O O	가격문의
+고 구 마 <SP> 피 자 는 <SP> 어 떻 게 <SP> 해 요 <SP> 가 격 이 예 ?	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> O O O <SP> O O <SP> O O O O O	가격문의
+1 . 2 5 리 터 <SP> 한 <SP> 병 은 <SP> 얼 마 에 요 ?	B_사이즈 I_사이즈 I_사이즈 I_사이즈 I_사이즈 I_사이즈 <SP> B_수량 <SP> I_수량 O <SP> O O O O O	가격문의
+피 자 는 <SP> 다 <SP> 8 0 0 0 원 에 <SP> 동 일 <SP> 금 액 인 가 요 ?	B_메뉴 I_메뉴 O <SP> O <SP> B_금액 I_금액 I_금액 I_금액 I_금액 O <SP> O O <SP> O O O O O O	가격문의
+피 자 <SP> 끝 에 <SP> 치 즈 <SP> 들 어 가 고 <SP> 그 런 <SP> 거 는 <SP> 얼 마 에 요 ?	B_위치 I_위치 <SP> I_위치 O <SP> B_재료 I_재료 <SP> O O O O <SP> O O <SP> O O <SP> O O O O O	가격문의
+네 모 난 <SP> 거 는 <SP> 얼 마 예 요 ?	B_메뉴 I_메뉴 O <SP> O O <SP> O O O O O	가격문의
+그 면 은 <SP> 3 ~ 4 인 용 <SP> 얼 마 에 요 ?	O O O <SP> B_인원 I_인원 I_인원 I_인원 I_인원 <SP> O O O O O	가격문의
+레 귤 러 <SP> 라 지 <SP> 각 각 <SP> 얼 마 에 요 ?	B_사이즈 I_사이즈 I_사이즈 <SP> B_사이즈 I_사이즈 <SP> O O <SP> O O O O O	가격문의
+콤 비 네 이 션 <SP> 피 자 는 <SP> 큰 <SP> 건 <SP> 얼 마 에 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> O <SP> O <SP> O O O O O	가격문의
+쉬 림 프 <SP> 핫 치 킨 <SP> 골 드 <SP> 피 자 는 <SP> 3 1 0 0 0 원 이 네 요 ?	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> B_금액 I_금액 I_금액 I_금액 I_금액 I_금액 O O O O	가격문의
+올 데 이 킹 <SP> 세 트 가 <SP> 전 부 다 <SP> 4 9 0 0 원 인 <SP> 거 예 요 ? <SP> 낱 개 로 <SP> 하 면 은 요 ?	B_세트메뉴 I_세트메뉴 I_세트메뉴 I_세트메뉴 <SP> I_세트메뉴 I_세트메뉴 O <SP> O O O <SP> B_금액 I_금액 I_금액 I_금액 I_금액 O <SP> O O O O <SP> O O O <SP> O O O O O	가격문의
+세 트 는 <SP> 5 6 0 0 원 이 고 <SP> 단 품 은 <SP> 가 격 이 <SP> 얼 마 예 요 ?	B_메뉴 I_메뉴 O <SP> B_금액 I_금액 I_금액 I_금액 I_금액 O O <SP> B_메뉴 I_메뉴 O <SP> O O O <SP> O O O O O	가격문의
+네 <SP> 그 럼 <SP> 4 천 <SP> 원 인 <SP> 거 죠 ?	O <SP> O O <SP> B_금액 I_금액 <SP> I_금액 O <SP> O O O	가격문의
+후 라 이 드 가 <SP> 만 <SP> 원 인 가 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> B_금액 <SP> I_금액 O O O O	가격문의
+콜 라 <SP> 하 나 <SP> 가 지 고 <SP> 부 족 하 지 <SP> 싶 은 데	B_음료 I_음료 <SP> B_수량 I_수량 <SP> O O O <SP> O O O O <SP> O O O	가격문의
+짬 뽕 <SP> 종 류 는 <SP> 어 떤 <SP> 게 <SP> 있 어 요 ?	B_메뉴 I_메뉴 <SP> O O O <SP> O O <SP> O <SP> O O O O	메뉴문의
+그 러 면 <SP> 4 인 <SP> 가 족 이 <SP> 시 켜 <SP> 먹 으 려 고 <SP> 하 는 데 <SP> 짬 뽕 <SP> 어 떻 게 <SP> 시 키 나 요 <SP> 세 트 <SP> 메 뉴 도 <SP> 있 나 요 ?	O O O <SP> B_인원 I_인원 <SP> I_인원 I_인원 O <SP> O O <SP> O O O O <SP> O O O <SP> B_메뉴 I_메뉴 <SP> O O O <SP> O O O O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> O O O O	메뉴문의
+네 <SP> 저 녁 에 <SP> 손 님 <SP> 오 면 <SP> 시 키 려 고 <SP> 하 는 데 요 . <SP> 후 라 이 드 <SP> 종 류 는 <SP> 몇 <SP> 가 지 에 요 ? <SP> 부 위 <SP> 가 요 . <SP> 전 체 <SP> 닭 <SP> 한 <SP> 마 리 만 <SP> 하 나 요 ?	O <SP> B_시간 I_시간 O <SP> O O <SP> O O <SP> O O O O <SP> O O O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O <SP> O <SP> O O O O O <SP> O O <SP> O O O <SP> O O <SP> B_재료 <SP> B_수량 <SP> I_수량 I_수량 O <SP> O O O O	메뉴문의
+지 코 바 가 <SP> 종 류 가 <SP> 몇 <SP> 가 지 죠 ?	B_메뉴 I_메뉴 I_메뉴 O <SP> O O O <SP> O <SP> O O O O	메뉴문의
+그 러 면 <SP> 양 념 은 <SP> 한 <SP> 가 지 네 요 ? <SP> 저 번 에 <SP> 자 주 <SP> 시 켜 <SP> 먹 었 었 는 데	O O O <SP> O O O <SP> B_가짓수 <SP> I_가짓수 I_가짓수 O O O <SP> O O O <SP> O O <SP> O O <SP> O O O O O	메뉴문의
+그 러 면 <SP> 여 기 가 <SP> 찜 닭 <SP> 종 류 가 <SP> 있 나 요 ? <SP> 종 류 로 는 <SP> 어 떤 <SP> 게 <SP> 있 어 요 ?	O O O <SP> O O O <SP> B_메뉴 I_메뉴 <SP> O O O <SP> O O O O <SP> O O O O <SP> O O <SP> O <SP> O O O O	메뉴문의
+한 <SP> 마 리 <SP> 순 살 치 킨 인 가 요 ?	B_수량 <SP> I_수량 I_수량 <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 O O O O	메뉴문의
+그 러 면 <SP> 지 금 <SP> 찜 닭 <SP> 종 류 로 <SP> 있 나 요 ?	O O O <SP> O O <SP> B_메뉴 I_메뉴 <SP> O O O <SP> O O O O	메뉴문의
+그 러 면 <SP> 그 <SP> 치 킨 <SP> 종 류 로 는 <SP> 어 떤 <SP> 게 <SP> 있 어 요 ?	O O O <SP> O <SP> B_메뉴 I_메뉴 <SP> O O O O <SP> O O <SP> O <SP> O O O O	메뉴문의
+그 러 면 <SP> 혹 시 <SP> 여 기 <SP> 찜 닭 은 <SP> 안 <SP> 하 죠 ?	O O O <SP> O O <SP> O O <SP> B_메뉴 I_메뉴 O <SP> O <SP> O O O	메뉴문의
+종 류 는 <SP> 어 떤 <SP> 게 <SP> 있 나 요 <SP> 치 킨 이 ?	O O O <SP> O O <SP> O <SP> O O O <SP> B_메뉴 I_메뉴 O O	메뉴문의
+그 럼 <SP> 단 일 <SP> 품 목 <SP> 딱 <SP> 한 <SP> 개 로 <SP> 배 달 하 는 <SP> 거 에 요 ?	O O <SP> O O <SP> O O <SP> O <SP> B_수량 <SP> I_수량 O <SP> O O O O <SP> O O O O	메뉴문의
+거 기 <SP> 벌 집 <SP> 피 자 가 <SP> 있 던 데 <SP> 어 떤 <SP> 거 예 요 ?	O O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> O O O <SP> O O <SP> O O O O	메뉴문의
+중 학 생 과 <SP> 어 른 하 고 <SP> 먹 을 <SP> 건 데	B_연령대 I_연령대 I_연령대 O <SP> B_연령대 I_연령대 O O <SP> O O <SP> O O	메뉴문의
+4 인 요	B_인원 I_인원 O	메뉴문의
+두 <SP> 개 <SP> 하 면 은 ?	B_수량 <SP> I_수량 <SP> O O O O	메뉴문의
+이 게 <SP> 콤 비 네 이 션 인 가 요 ?	O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 O O O O	메뉴문의
+치 킨 도 <SP> 있 어 요 ?	B_메뉴 I_메뉴 O <SP> O O O O	메뉴문의
+이 것 도 <SP> 단 품 도 <SP> 있 나 요 ?	O O O <SP> B_메뉴 I_메뉴 O <SP> O O O O	메뉴문의
+애 들 이 <SP> 잘 <SP> 먹 어 요 ?	B_나이 I_나이 O <SP> O <SP> O O O O	메뉴문의
+초 등 학 생 이 요	B_연령대 I_연령대 I_연령대 I_연령대 O O	메뉴문의
+양 장 피 <SP> 같 은 <SP> 요 리 도 <SP> 있 어 요 ?	B_메뉴 I_메뉴 I_메뉴 <SP> O O <SP> O O O <SP> O O O O	메뉴문의
+탕 수 육 은 ?	B_메뉴 I_메뉴 I_메뉴 O O	메뉴문의
+해 물 <SP> 짬 뽕 은 ?	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O O	메뉴문의
+1 3 0 0 0 원 짜 리 는 <SP> 어 떤 건 데 예 ?	B_금액 I_금액 I_금액 I_금액 I_금액 I_금액 O O O <SP> O O O O O O	메뉴문의
+콤 비 네 이 션 <SP> 피 자 <SP> 뭐 <SP> 있 어 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> O <SP> O O O O	메뉴문의
+콤 비 네 이 션 <SP> 하 나 랑 <SP> 또 <SP> 뭐 <SP> 고 기 <SP> 들 어 가 는 <SP> 거 <SP> 있 어 요 ?	O O O O O <SP> B_수량 I_수량 O <SP> O <SP> O <SP> B_재료 I_재료 <SP> O O O O <SP> O <SP> O O O O	메뉴문의
+여 기 <SP> 뭐 <SP> 콤 비 네 이 션 <SP> 있 죠 ?	O O <SP> O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O	메뉴문의
+짬 뽕 <SP> 종 류 로 요	B_메뉴 I_메뉴 <SP> O O O O	식사배달요청
+제 가 <SP> 다 음 주 에 <SP> 개 학 <SP> 하 고 <SP> 난 <SP> 다 음 에 <SP> 주 중 에 <SP> 목 요 일 이 나 <SP> 금 요 일 에 <SP> 학 교 에 <SP> 피 자 <SP> 좀 <SP> 돌 리 려 고 <SP> 하 는 데	O O <SP> O O O O <SP> O O <SP> O O <SP> O <SP> O O O <SP> O O O <SP> B_날짜 I_날짜 I_날짜 O O <SP> B_날짜 I_날짜 I_날짜 O <SP> B_배달지 I_배달지 O <SP> B_메뉴 I_메뉴 <SP> O <SP> O O O O <SP> O O O	식사배달요청
+그 게 <SP> 라 지 <SP> 사 이 즈 인 거 죠 <SP> 말 씀 하 시 는 <SP> 게 ?	O O <SP> B_사이즈 I_사이즈 <SP> O O O O O O <SP> O O O O O <SP> O O	식사배달요청
+아 <SP> 서 구 청 <SP> 평 리 중 학 교 <SP> 부 근 이 거 든 예	O <SP> B_배달지 I_배달지 I_배달지 <SP> I_배달지 I_배달지 I_배달지 I_배달지 I_배달지 <SP> I_배달지 I_배달지 O O O O	식사배달요청
+그 러 면 <SP> 후 라 이 드 <SP> 플 러 스 <SP> 슈 프 림 치 킨 <SP> 반 반 으 로 <SP> 해 주 세 요	O O O <SP> O O O O <SP> O O O <SP> O O O O O <SP> B_메뉴 I_메뉴 O O <SP> O O O O	식사배달요청
+예 <SP> 상 인 대 성 <SP> 스 카 이 렉 스 <SP> 1 0 2 동 <SP> 1 5 0 3 호 요	O <SP> B_배달지 I_배달지 I_배달지 I_배달지 <SP> I_배달지 I_배달지 I_배달지 I_배달지 I_배달지 <SP> I_배달지 I_배달지 I_배달지 I_배달지 <SP> I_배달지 I_배달지 I_배달지 I_배달지 I_배달지 O	식사배달요청
+그 러 면 <SP> 스 테 이 크 <SP> 불 갈 비 <SP> 피 자 <SP> 라 지 로 <SP> 하 나	O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_사이즈 I_사이즈 O <SP> O O	식사배달요청
+두 <SP> 개 요	B_수량 <SP> I_수량 O	식사배달요청
+그 럼 <SP> 짜 장 면 <SP> 두 <SP> 개 만 <SP> 주 세 요	O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 O <SP> O O O	식사배달요청
+탕 수 육 하 고 <SP> 짜 장 면 <SP> 있 는 거 <SP> 만 <SP> 오 천 <SP> 원 짜 리 로 <SP> 하 나 <SP> 보 내 주 세 요	B_메뉴 I_메뉴 I_메뉴 O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> O O O <SP> B_금액 <SP> I_금액 I_금액 <SP> I_금액 O O O <SP> B_수량 I_수량 <SP> O O O O O	식사배달요청
+피 자 <SP> 좀 <SP> 주 문 할 라 카 는 데 요	B_메뉴 I_메뉴 <SP> O <SP> O O O O O O O O	식사배달요청
+네 <SP> 라 지 요	O <SP> B_사이즈 I_사이즈 O	식사배달요청
+그 러 면 <SP> 5 0 0 원 짜 리 <SP> 하 나 만 <SP> 더 <SP> 주 세 요	O O O <SP> B_금액 I_금액 I_금액 I_금액 O O <SP> B_수량 I_수량 O <SP> O <SP> O O O	식사배달요청
+세 <SP> 명 이 요	B_인원 <SP> I_인원 O O	식사배달요청
+네 <SP> 그 렇 게 <SP> 2 3 0 0 0 원 짜 리 로 <SP> 해 주 세 요	O <SP> O O O <SP> B_금액 I_금액 I_금액 I_금액 I_금액 I_금액 O O O <SP> O O O O	식사배달요청
+주 소 <SP> 외 동 <SP> 동 성 아 파 트 <SP> 3 0 8 동 <SP> 5 0 1 호 요	O O <SP> B_배달지 I_배달지 <SP> I_배달지 I_배달지 I_배달지 I_배달지 I_배달지 <SP> I_배달지 I_배달지 I_배달지 I_배달지 <SP> I_배달지 I_배달지 I_배달지 I_배달지 O	식사배달요청
+그 럼 <SP> 기 본 하 나 <SP> 곱 배 기 하 나 <SP> 가 져 다 <SP> 주 세 요	O O <SP> B_사이즈 I_사이즈 B_수량 I_수량 <SP> O O O B_수량 I_수량 <SP> O O O <SP> O O O	식사배달요청
+양 념 반 후 라 이 드 반 <SP> 주 문 할 께 요	O O B_수량 O O O O B_수량 <SP> O O O O O	식사배달요청
+양 념 <SP> 치 킨 <SP> 1 마 리 <SP> 주 문 이 요	O O <SP> O O <SP> B_수량 I_수량 I_수량 <SP> O O O O	식사배달요청
+서 울 시 <SP> 강 남 구 <SP> 서 초 동 <SP> 0 0 0 요	B_주소 I_주소 I_주소 <SP> I_주소 I_주소 I_주소 <SP> I_주소 I_주소 I_주소 <SP> I_주소 I_주소 I_주소 O	식사배달요청
+제 일 <SP> 큰 <SP> 거 로 <SP> 한 판 <SP> 주 세 요	O O <SP> O <SP> O O <SP> B_수량 I_수량 <SP> O O O	식사배달요청
+짬 뽕 이 랑 <SP> 깐 풍 기 <SP> 배 달 해 주 세 요 .	B_메뉴 I_메뉴 O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> O O O O O O O	식사배달요청
+그 러 면 <SP> 탕 수 육 으 로 <SP> 주 세 요	O O O <SP> B_메뉴 I_메뉴 I_메뉴 O O <SP> O O O	식사배달요청
+슈 프 림 <SP> 피 자 <SP> 한 판 <SP> 주 문 할 게 요 .	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> O O <SP> O O O O O O	식사배달요청
+콜 라 로 <SP> 주 문 할 게 요 .	B_음료 I_음료 O <SP> O O O O O O	식사배달요청
+신 흥 동 <SP> A A 빌 라 <SP> 1 2 3 호 입 니 다	B_주소 I_주소 I_주소 <SP> I_주소 I_주소 I_주소 I_주소 <SP> I_주소 I_주소 I_주소 I_주소 O O O	식사배달요청
+치 킨 <SP> 주 문 을 <SP> 하 고 <SP> 싶 은 데 요 .	B_메뉴 I_메뉴 <SP> O O O <SP> O O <SP> O O O O O	식사배달요청
+그 러 면 <SP> 계 산 할 <SP> 때 <SP> 현 금 하 고 <SP> 카 드 만 <SP> 돼 요 ?	O O O <SP> O O O <SP> O <SP> B_결제방식 I_결제방식 O O <SP> B_결제방식 I_결제방식 O <SP> O O O	결제방식선택
+카 드 로 <SP> 하 는 <SP> 거 하 고 <SP> 현 금 으 로 <SP> 하 는 <SP> 거 <SP> 하 고 <SP> 똑 같 아 요 ?	B_결제방식 I_결제방식 O <SP> O O <SP> O O O <SP> B_결제방식 I_결제방식 O O <SP> O O <SP> O <SP> O O <SP> O O O O O	결제방식선택
+현 금 으 로 <SP> 하 지 <SP> 싶 은 데 <SP> 그 럼 <SP> 자 동 이 체 <SP> 하 면 <SP> 되 겠 다	B_결제방식 I_결제방식 O O <SP> O O <SP> O O O <SP> O O <SP> O O O O <SP> O O <SP> O O O	결제방식선택
+결 제 는 <SP> 그 러 면 <SP> 카 드 로 <SP> 하 나 요 <SP> 아 니 면 <SP> 현 금 ?	O O O <SP> O O O <SP> B_결제종류 I_결제종류 O <SP> O O O <SP> O O O <SP> B_결제종류 I_결제종류 O	결제방식선택
+예 <SP> 1 9 0 0 0 원 <SP> 현 금 <SP> 드 릴 게 요	O <SP> B_금액 I_금액 I_금액 I_금액 I_금액 I_금액 <SP> B_결재종류 I_결재종류 <SP> O O O O	결제방식선택
+카 드 도 <SP> 되 죠 ?	B_결제방식 I_결제방식 O <SP> O O O	결제방식선택
+카 드 는 <SP> 되 죠 ?	B_결제방식 I_결제방식 O <SP> O O O	결제방식선택
+네 <SP> 그 렇 게 <SP> 카 드 로 <SP> 할 게 요	O <SP> O O O <SP> B_결제방식 I_결제방식 O <SP> O O O	결제방식선택
+지 금 <SP> 카 드 <SP> 되 죠 ?	O O <SP> B_결제방식 I_결제방식 <SP> O O O	결제방식선택
+카 드 도 <SP> 결 제 되 지 예 ?	B_결제방식 I_결제방식 O <SP> O O O O O O	결제방식선택
+카 드 로 <SP> 할 <SP> 건 데 요	B_결제방식 I_결제방식 O <SP> O <SP> O O O	결제방식선택
+애 들 <SP> 학 교 에 <SP> 어 떤 <SP> 간 식 <SP> 잘 나 가 예 ? <SP>	B_대상 I_대상 <SP> B_장소 I_장소 O <SP> O O <SP> O O <SP> O O O O O <SP>	결제방식선택
+2 0 명 <SP> 정 도 <SP> 먹 을 라 <SP> 카 면 은 <SP> 다 리 날 개 <SP> 콤 보 는 <SP> 몇 <SP> 마 리 <SP> 정 도 <SP> 하 면 <SP> 되 예 ?	B_인원 I_인원 I_인원 <SP> O O <SP> O O O <SP> O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> O <SP> O O <SP> O O <SP> O O <SP> O O O	결제방식선택
+체 크 <SP> 카 드 인 데 요	B_결제종류 I_결제종류 <SP> I_결제종류 I_결제종류 O O O	결제방식선택
+아 <SP> 여 섯 <SP> 개 . <SP> 뭐 <SP> 적 립 이 나 <SP> 할 인 <SP> 같 은 <SP> 건 <SP> 없 어 요 ?	O <SP> B_갯수 I_갯수 <SP> I_갯수 O <SP> O <SP> O O O O <SP> O O <SP> O O <SP> O <SP> O O O O	결제방식선택
+아 뇨 <SP> 카 드 로 <SP> 하 면 <SP> 이 걸 로 <SP> 결 제 해 야 <SP> 돼 요 ?	O O <SP> B_결제방식 I_결제방식 O <SP> O O <SP> O O O <SP> O O O O <SP> O O O	결제방식선택
+잠 시 만 요 <SP> 카 드 <SP> 드 릴 게 요	O O O O <SP> B_결제방식 I_결제방식 <SP> O O O O	결제방식선택
+카 드 계 산 <SP> 안 되 죠 ?	B_결제종류 I_결제종류 I_결제종류 I_결제종류 <SP> O O O O	결제방식선택
+카 드 <SP> 돼 요 ?	B_결제종류 I_결제종류 <SP> O O O	결제방식선택
+카 드 결 제 <SP> 가 능 해 요 ?	B_결제종류 I_결제종류 O O <SP> O O O O O	결제방식선택
+카 드 <SP> 계 산 <SP> 돼 요 ?	B_결제종류 I_결제종류 <SP> O O <SP> O O O	결제방식선택
+카 드 는 <SP> 안 되 죠 ?	B_결제종류 I_결제종류 O <SP> O O O O	결제방식선택
+카 드 <SP> 되 나 요 ?	B_결제종류 I_결제종류 <SP> O O O O	결제방식선택
+카 드 <SP> 돼 요 ?	B_결제종류 I_결제종류 <SP> O O O	결제방식선택
+네 <SP> 현 금 <SP> 드 릴 게 요	O <SP> B_결제종류 I_결제종류 <SP> O O O O	결제방식선택
+미 안 한 데 <SP> 혹 시 <SP> 카 드 <SP> 내 도 <SP> 돼 요 ?	O O O O <SP> O O <SP> B_결제종류 I_결제종류 <SP> O O <SP> O O O	결제방식선택
+현 금 이 <SP> 없 어 가 지 고 <SP> 미 안 해 요	B_결제종류 I_결제종류 O <SP> O O O O O <SP> O O O O	결제방식선택
+위 가 비 <SP> 김 밥 은 <SP> 어 떤 <SP> 거 예 요 ?	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> O O <SP> O O O O	메뉴판에있는음식에대한질문
+후 토 마 끼 <SP> 새 우 덴 뿌 라 <SP> 하 는 <SP> 건 <SP> 뭐 예 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O <SP> O <SP> O O O O	메뉴판에있는음식에대한질문
+시 래 기 <SP> 떡 볶 이 는 <SP> 뭐 예 요 ?	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 O <SP> O O O O	메뉴판에있는음식에대한질문
+시 래 기 <SP> 넣 었 다 고 <SP> 시 래 기 <SP> 떡 볶 이 구 나	B_재료 I_재료 I_재료 <SP> O O O O <SP> B_재료 I_재료 I_재료 <SP> O O O O O	메뉴판에있는음식에대한질문
+고 구 마 <SP> 돈 가 스 는 <SP> 한 <SP> 번 도 <SP> 안 <SP> 먹 어 봤 는 데 <SP> 어 떤 <SP> 거 인 가 ?	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 O <SP> B_수량 <SP> I_수량 O <SP> O <SP> O O O O O <SP> O O <SP> O O O O	메뉴판에있는음식에대한질문
+김 밥 은 <SP> 메 뉴 에 <SP> 있 는 <SP> 게 <SP> 다 에 요 ?	B_메뉴 I_메뉴 O <SP> O O O <SP> O O <SP> O <SP> O O O O	메뉴판에있는음식에대한질문
+저 <SP> 갈 비 <SP> 만 두 는 <SP> 갈 비 <SP> 모 양 으 로 <SP> 생 겼 다 고 <SP> 갈 비 <SP> 만 두 인 거 죠 ?	O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> O O <SP> O O O O <SP> O O O O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O O O O	메뉴판에있는음식에대한질문
+김 밥 <SP> 할 건 데 <SP> 그 냥 <SP> 김 밥 은 <SP> 일 반 <SP> 김 밥 인 가 요 ?	B_메뉴 I_메뉴 <SP> O O O <SP> O O <SP> B_메뉴 I_메뉴 O <SP> O O <SP> B_메뉴 I_메뉴 O O O O	메뉴판에있는음식에대한질문
+이 건 <SP> 빵 <SP> 안 에 <SP> 구 워 진 <SP> 빵 인 가 요 ?	O O <SP> B_재료 <SP> O O <SP> O O O <SP> B_재료 O O O O	메뉴판에있는음식에대한질문
+이 거 <SP> 새 우 <SP> 베 이 컨 <SP> 필 라 프 는 요	O O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 O O	메뉴판에있는음식에대한질문
+마 르 게 리 타 는 <SP> 어 떤 <SP> 거 예 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> O O <SP> O O O O	메뉴판에있는음식에대한질문
+호 떡 <SP> 피 자 는 요 ?	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O O O	메뉴판에있는음식에대한질문
+인 절 미 <SP> 피 자 는 <SP> 인 절 미 <SP> 가 루 가 <SP> 올 라 가 는 <SP> 거 예 요 ?	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> B_재료 I_재료 I_재료 <SP> I_재료 I_재료 O <SP> O O O O <SP> O O O O	메뉴판에있는음식에대한질문
+갈 릭 샐 러 드 는 <SP> 뭐 예 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> O O O O	메뉴판에있는음식에대한질문
+새 우 <SP> 필 라 프 는 <SP> 어 떤 <SP> 거 예 요 ?	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 O <SP> O O <SP> O O O O	메뉴판에있는음식에대한질문
+샐 러 드 <SP> 돈 가 스 는 요 ?	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 O O O	메뉴판에있는음식에대한질문
+카 레 <SP> 돈 가 스 는 요 ?	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 O O O	메뉴판에있는음식에대한질문
+큐 브 <SP> 스 테 이 크 <SP> 덮 밥 <SP> 이 런 <SP> 것 도 <SP> 되 죠 ?	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> O O <SP> O O <SP> O O O	메뉴판에있는음식에대한질문
+근 데 <SP> 타 르 타 르 <SP> 돈 가 스 는 <SP> 뭐 예 요 ?	O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 O <SP> O O O O	메뉴판에있는음식에대한질문
+뉴 욕 함 박 스 테 이 크 는 <SP> 계 란 , <SP> 치 즈 가 <SP> 올 라 가 는 거 에 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> B_재료 I_재료 O <SP> B_재료 I_재료 O <SP> O O O O O O O O	메뉴판에있는음식에대한질문
+알 리 오 <SP> 올 리 오 는 <SP> 뭐 예 요 ?	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 O <SP> O O O O	메뉴판에있는음식에대한질문
+휴 커 틀 렛 이 <SP> 뭐 죠 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> O O O	메뉴판에있는음식에대한질문
+불 고 기 <SP> 필 라 프 는 <SP> 뭐 예 요 ?	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 O <SP> O O O O	메뉴판에있는음식에대한질문
+튀 김 은 <SP> 어 떤 <SP> 튀 김 나 와 요 ?	B_메뉴 I_메뉴 O <SP> O O <SP> B_메뉴 I_메뉴 O O O O	메뉴판에있는음식에대한질문
+제 가 <SP> 익 힌 <SP> 해 물 만 <SP> 먹 어 서 <SP> 모 둠 초 밥 정 식 에 서 <SP> 초 새 우 만 <SP> 할 수 <SP> 있 죠 ?	O O <SP> O O <SP> B_재료 I_재료 O <SP> O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 O O <SP> B_초밥 I_초밥 I_초밥 O <SP> O O <SP> O O O	메뉴판에있는음식에대한질문
+정 성 모 둠 초 밥 에 는 <SP> 뭐 가 <SP> 들 어 가 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 O O <SP> O O <SP> O O O O O	메뉴판에있는음식에대한질문
+불 고 기 <SP> 세 트 <SP> 하 나 <SP> 주 세 요	B_세트메뉴 I_세트메뉴 I_세트메뉴 <SP> I_세트메뉴 I_세트메뉴 <SP> B_수량 I_수량 <SP> O O O	메뉴주문
+마 쌀 라 버 거 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	메뉴주문
+티 랙 스 <SP> 하 나 <SP> 주 세 요	O O O <SP> B_수량 I_수량 <SP> O O O	메뉴주문
+두 <SP> 세 트 <SP> 주 세 요	B_수량 <SP> I_수량 I_수량 <SP> O O O	메뉴주문
+그 럼 <SP> 불 고 기 <SP> 에 그 <SP> 버 거 <SP> 두 <SP> 개 <SP> 주 세 요	O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 <SP> I_수량 <SP> O O O	메뉴주문
+네 <SP> 그 럼 <SP> 슈 레 드 로 <SP> 해 주 세 요	O <SP> O O <SP> B_메뉴 I_메뉴 I_메뉴 O <SP> O O O O	메뉴주문
+야 채 는 <SP> 다 <SP> 좋 아 하 는 데 요	B_재료 I_재료 O <SP> O <SP> O O O O O O	메뉴주문
+그 러 면 <SP> 핫 <SP> 칠 리 <SP> 조 금 만 <SP> 넣 어 주 세 요	O O O <SP> B_소스 <SP> I_소스 I_소스 <SP> O O O <SP> O O O O O	메뉴주문
+싸 이 버 거 <SP> 하 나 <SP> 주 세 요	B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	메뉴주문
+단 품 <SP> 주 세 요	B_메뉴 I_메뉴 <SP> O O O	메뉴주문
+네 <SP> 한 <SP> 개	O <SP> O <SP> O	메뉴주문
+그 러 면 <SP> 일 구 오 오 버 거 <SP> 단 품 <SP> 하 나 <SP> 포 장 해 주 세 요	O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O O O O	메뉴주문
+그 러 면 <SP> 티 렉 스 <SP> 버 거 에 <SP> 토 마 토 <SP> 한 <SP> 장 <SP> 추 가 해 주 세 요	O O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> B_재료 I_재료 I_재료 <SP> B_수량 <SP> I_수량 <SP> O O O O O O	메뉴주문
+아 니 요 <SP> 단 품 으 로 <SP> 주 세 요	O O O <SP> B_메뉴 I_메뉴 O O <SP> O O O	메뉴주문
+그 러 면 <SP> 새 우 버 거 <SP> 주 세 요	O O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O	메뉴주문
+한 <SP> 개 요	B_수량 <SP> I_수량 O	메뉴주문
+그 러 면 <SP> 그 냥 <SP> 저 기 <SP> 하 루 <SP> 종 일 <SP> 빅 맥 <SP> 주 세 요	O O O <SP> O O <SP> O O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> O O O	메뉴주문
+아 <SP> 저 기 <SP> 죄 송 한 데 <SP> 여 기 <SP> 소 프 트 콘 <SP> 하 나 <SP> 주 세 요	O <SP> O O <SP> O O O O <SP> O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> O O O	메뉴주문
+빅 맥 <SP> 세 트 로 <SP> 하 나 <SP> 시 켜 볼 까	B_세트메뉴 I_세트메뉴 <SP> I_세트메뉴 I_세트메뉴 O <SP> B_수량 I_수량 <SP> O O O O	메뉴주문
+그 러 면 <SP> 이 거 <SP> 빅 맥 <SP> 세 트 로 <SP> 하 나 <SP> 주 세 요	O O O <SP> O O <SP> B_세트메뉴 I_세트메뉴 <SP> I_세트메뉴 I_세트메뉴 O <SP> B_수량 I_수량 <SP> O O O	메뉴주문
+네 <SP> 그 거 <SP> 하 나 <SP> 주 세 요	O <SP> O O <SP> B_수량 I_수량 <SP> O O O	메뉴주문
+그 러 면 <SP> 옛 날 <SP> 토 스 트 <SP> 하 나 , <SP> 아 메 리 카 노 <SP> 한 잔 <SP> 주 세 요	O O O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 O <SP> B_음료 I_음료 I_음료 I_음료 I_음료 <SP> B_수량 I_수량 <SP> O O O	메뉴주문
+고 거 <SP> 하 나 <SP> 주 세 요	O O <SP> B_수량 I_수량 <SP> O O O	메뉴주문
+네 <SP> 불 고 기 버 거 <SP> 하 나 하 고	O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> B_수량 I_수량 O O	메뉴주문
+그 럼 <SP> 버 거 <SP> 하 나 하 고 <SP> 콜 라 <SP> 하 나 <SP> 주 세 요	O O <SP> B_메뉴 I_메뉴 <SP> B_수량 I_수량 O O <SP> B_음료 I_음료 <SP> B_수량 I_수량 <SP> O O O	메뉴주문
+불 고 기 <SP> 단 품 <SP> 하 나 <SP> 콜 라 <SP> 하 나	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 <SP> B_수량 I_수량 <SP> B_음료 I_음료 <SP> O O	메뉴주문
+그 면 <SP> 점 심 <SP> 때 <SP> 들 어 갈 라 면 <SP> 그 <SP> 전 날 <SP> 전 화 드 려 야 <SP> 되 겠 다 <SP> 그 지 예 ?	O O <SP> O O <SP> O <SP> O O O O O <SP> O <SP> B_날짜 I_날짜 <SP> O O O O O <SP> O O O <SP> O O O O	예약문의
+일 곱 , <SP> 여 덟 , <SP> 아 홉 <SP> 판 <SP> 정 도 <SP> 주 문 하 려 면 <SP> 언 제 쯤 <SP> 전 화 드 리 면 <SP> 되 지 예 ?	B_수량 I_수량 O <SP> B_수량 I_수량 O <SP> B_수량 I_수량 <SP> I_수량 <SP> O O <SP> O O O O O <SP> O O O <SP> O O O O O <SP> O O O O	예약문의
+1 . 2 L 인 가 요 ?	B_사이즈 I_사이즈 I_사이즈 I_사이즈 O O O O	예약문의
+열 <SP> 명 <SP> 정 도 <SP> 예 약 을 <SP> 하 려 고 <SP> 하 는 데 <SP> 언 제 쯤 <SP> 미 리 <SP> 전 화 로 <SP> 알 려 드 리 면 <SP> 되 는 지 요 ?	B_인원 <SP> I_인원 <SP> O O <SP> O O O <SP> O O O <SP> O O O <SP> O O O <SP> O O <SP> O O O <SP> O O O O O <SP> O O O O O	예약문의
+혹 시 <SP> 그 러 면 <SP> 김 밥 <SP> 따 로 <SP> 주 문 하 려 고 <SP> 하 면 <SP> 언 제 <SP> 말 해 줘 야 돼 요 ?	O O <SP> O O O <SP> B_메뉴 I_메뉴 <SP> O O <SP> O O O O O <SP> O O <SP> O O <SP> O O O O O O O	예약문의
+한 <SP> 스 무 <SP> 줄 에 서 <SP> 삼 십 <SP> 줄	O <SP> B_수량 I_수량 <SP> I_수량 O O <SP> O O <SP> O	예약문의
+그 러 면 <SP> 삼 십 <SP> 줄 <SP> 이 렇 게 <SP> 해 서 <SP> 주 문 하 면 <SP> 언 제 쯤 <SP> 전 화 드 려 야 <SP> 돼 요 ?	O O O <SP> B_수량 I_수량 <SP> I_수량 <SP> O O O <SP> O O <SP> O O O O <SP> O O O <SP> O O O O O <SP> O O O	예약문의
+김 밥 은 <SP> 혹 시 <SP> 예 약 이 <SP> 가 능 한 가 요 ?	B_메뉴 I_메뉴 O <SP> O O <SP> O O O <SP> O O O O O O	예약문의
+그 러 면 <SP> 한 <SP> 여 섯 시 나 <SP> 여 섯 시 <SP> 반 쯤 <SP> 되 가 지 고 <SP> 주 문 을 <SP> 넣 으 면 <SP> 그 때 <SP> 가 능 한 가 요 ?	O O O <SP> O <SP> B_시간 I_시간 I_시간 O <SP> B_시간 I_시간 I_시간 <SP> O O <SP> O O O O <SP> O O O <SP> O O O <SP> O O <SP> O O O O O O	예약문의
+한 <SP> 사 십 <SP> 명 <SP> 정 도 요	O <SP> B_인원 I_인원 <SP> I_인원 <SP> O O O	예약문의
+7 명 에 서 <SP> 1 0 명 <SP> 정 도 <SP> 될 <SP> 거 <SP> 같 아 요	B_인원 I_인원 O O <SP> B_인원 I_인원 I_인원 <SP> O O <SP> O <SP> O <SP> O O O	예약문의
+다 섯 <SP> 명 도 <SP> 예 약 해 야 <SP> 되 는 <SP> 거 죠 ?	B_인원 I_인원 <SP> I_인원 O <SP> O O O O <SP> O O <SP> O O O	예약문의
+주 말 에 요	B_예약일 I_예약일 O O	예약문의
+한 <SP> 열 <SP> 명 <SP> 정 도 <SP> 회 식 하 면 <SP> 미 리 <SP> 연 락 해 야 <SP> 되 죠 ? <SP>	O <SP> B_인원 <SP> I_인원 <SP> O O <SP> B_행사 I_행사 O O <SP> O O <SP> O O O O <SP> O O O <SP>	예약문의
+아 니 요 <SP> 평 일 에 <SP> 할 <SP> 거 예 요	O O O <SP> B_날짜 I_날짜 O <SP> O <SP> O O O	예약문의
+열 <SP> 명 <SP> 정 도	B_인원 <SP> I_인원 <SP> O O	예약문의
+당 일 <SP> 낮 에 <SP> 할 <SP> 수 <SP> 있 어 요 ?	B_시간 I_시간 <SP> I_시간 O <SP> O <SP> O <SP> O O O O	예약문의
+한 <SP> 열 두 <SP> 시 요	O <SP> B_예약시간 I_예약시간 <SP> I_예약시간 O	예약문의
+동 태 탕 <SP> 이 런 <SP> 거 <SP> 하 려 면 <SP> 예 약 해 야 <SP> 해 요 ?	B_메뉴 I_메뉴 I_메뉴 <SP> O O <SP> O <SP> O O O <SP> O O O O <SP> O O O	예약문의
+한 <SP> 열 <SP> 명 <SP> 안 됩 니 다	O <SP> B_인원 <SP> I_인원 <SP> O O O O	예약문의
+전 날 <SP> 전 화 드 려 야 <SP> 하 죠 ?	B_날짜 I_날짜 <SP> O O O O O <SP> O O O	예약문의
+몇 <SP> 명 까 지 ? <SP> 열 <SP> 명 <SP> 열 두 <SP> 명 <SP> 정 도	O <SP> O O O O <SP> B_예약인원 <SP> I_예약인원 <SP> B_예약인원 I_예약인원 <SP> I_예약인원 <SP> O O	예약문의
+여 기 는 <SP> 계 추 할 라 면 <SP> 미 리 <SP> 전 화 를 <SP> 드 려 야 <SP> 돼 요 ?	O O O <SP> B_행사 I_행사 O O O <SP> O O <SP> O O O <SP> O O O <SP> O O O	예약문의
+사 람 <SP> 여 섯 <SP> 명 이 요	O O <SP> B_예약인원 I_예약인원 <SP> I_예약인원 O O	예약문의
+탕 수 육 에 <SP> 들 어 가 는 <SP> 고 기 가 <SP> 돼 지 고 기 죠 ?	B_메뉴 I_메뉴 I_메뉴 O <SP> O O O O <SP> B_재료 I_재료 O <SP> O O B_재료 I_재료 O O	식재료문의
+해 물 짬 뽕 에 <SP> 어 떤 <SP> 거 <SP> 들 어 가 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> O O <SP> O <SP> O O O O O	식재료문의
+고 기 짬 뽕 은 <SP> 돼 지 고 기 <SP> 들 어 가 나 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> B_재료 I_재료 I_재료 I_재료 <SP> O O O O O O	식재료문의
+그 러 면 <SP> 쟁 반 <SP> 야 끼 우 동 에 <SP> 해 물 이 <SP> 어 떤 <SP> 거 <SP> 들 어 가 는 지 <SP> 여 쭤 보 려 고 <SP> 하 는 데	O O O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> B_재료 I_재료 O <SP> O O <SP> O <SP> O O O O O <SP> O O O O O <SP> O O O	식재료문의
+혹 시 <SP> 도 우 <SP> 두 께 라 든 지 <SP> 치 즈 는 ?	O O <SP> B_부분 I_부분 <SP> O O O O O <SP> B_재료 I_재료 O O	식재료문의
+도 우 <SP> 두 께 나 <SP> 그 런 <SP> 거 는 요 ?	B_부분 I_부분 <SP> O O O <SP> O O <SP> O O O O	식재료문의
+불 고 기 피 자 는 <SP> 뭐 <SP> 들 어 가 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> O <SP> O O O O O	식재료문의
+블 랙 앵 거 스 는 <SP> 어 떤 <SP> 거 <SP> 들 어 가 지 요 ?	B_메뉴 I_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> O O <SP> O <SP> O O O O O O	식재료문의
+그 거 는 <SP> 도 우 <SP> 두 께 <SP> 정 할 <SP> 수 <SP> 있 나 요 ?	O O O <SP> B_부분 I_부분 <SP> O O <SP> O O <SP> O <SP> O O O O	식재료문의
+피 자 <SP> 옆 에 <SP> 치 즈 <SP> 테 두 리 에 <SP> 들 어 가 는 <SP> 거 는 ?	B_메뉴 I_메뉴 <SP> B_위치 O <SP> B_재료 I_재료 <SP> B_위치 I_위치 I_위치 O <SP> O O O O <SP> O O O	식재료문의
+그 러 면 <SP> 그 <SP> 안 에 <SP> 그 <SP> 닭 고 기 하 고 <SP> 야 채 는 <SP> 어 떤 <SP> 거 <SP> 들 어 가 요 ?	O O O <SP> O <SP> O O <SP> O <SP> B_재료 I_재료 I_재료 O O <SP> B_재료 I_재료 O <SP> O O <SP> O <SP> O O O O O	식재료문의
+불 갈 비 는 <SP> 돼 지 고 기 로 <SP> 돼 <SP> 있 나 요 ?	B_메뉴 I_메뉴 I_메뉴 O <SP> B_재료 I_재료 I_재료 I_재료 O <SP> O <SP> O O O O	식재료문의
+밀 가 루 <SP> 반 죽 이 <SP> 얇 은 가 요 ?	B_재료 I_재료 I_재료 <SP> O O O <SP> O O O O O	식재료문의
+<SP> 피 자 <SP> 치 즈 는 <SP> 뭐 <SP> 써 요 ?	<SP> B_재료 I_재료 <SP> I_재료 I_재료 O <SP> O <SP> O O O	식재료문의
+깐 풍 육 은 <SP> 닭 고 기 로 <SP> 하 나 요 ?	B_메뉴 I_메뉴 I_메뉴 O <SP> B_재료 I_재료 I_재료 O <SP> O O O O	식재료문의
+어 떤 <SP> 치 즈 에 요 ?	O O <SP> B_재료 I_재료 O O O	식재료문의
+이 베 리 코 포 크 가 <SP> 돼 지 고 기 <SP> 인 가 요 ?	B_토핑 I_토핑 I_토핑 I_토핑 I_토핑 I_토핑 O <SP> B_재료 I_재료 I_재료 I_재료 <SP> O O O O	식재료문의
+얼 큰 이 <SP> 짬 뽕 은 <SP> 어 떤 <SP> 게 <SP> 맵 기 가 ?	B_메뉴 I_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> O O <SP> O <SP> O O O O	맛에대한질문
+아 <SP> 초 등 학 생 들 이 <SP> 먹 을 <SP> 거 라 서 <SP> 좀 <SP> 순 하 게 <SP> 해 야 <SP> 돼 서	O <SP> B_나이 I_나이 I_나이 I_나이 O O <SP> O O <SP> O O O <SP> O <SP> O O O <SP> O O <SP> O O	맛에대한질문
+중 화 <SP> 비 빔 밥 은 <SP> 좀 <SP> 덜 <SP> 짜 게 <SP> 해 주 시 면 <SP> 안 돼 요 ?	B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 I_메뉴 O <SP> O <SP> O <SP> O O <SP> O O O O <SP> O O O O	맛에대한질문
+음 료 수 도 <SP> 따 로 <SP> 주 문 해 야 되 는 거 에 요 ?	B_메뉴 I_메뉴 O O <SP> O O <SP> O O O O O O O O O O	맛에대한질문
+화 장 실 은 <SP> 어 디 <SP> 있 나 요 ?	B_장소 I_장소 I_장소 O <SP> O O <SP> O O O O	화장실문의
+여 기 <SP> 화 장 실 <SP> 어 디 <SP> 있 어 요 ?	O O <SP> B_장소 I_장소 I_장소 <SP> O O <SP> O O O O	화장실문의
+화 장 실 은 <SP> 혹 시 <SP> 어 디 <SP> 있 어 요 ?	B_장소 I_장소 I_장소 O <SP> O O <SP> O O <SP> O O O O	화장실문의
+화 장 실 <SP> 어 디 <SP> 있 어 요 ?	B_장소 I_장소 I_장소 <SP> O O <SP> O O O O	화장실문의
+4 인 이 <SP> 먹 을 <SP> 수 <SP> 있 을 까 요 ?	B_인원 I_인원 O <SP> O O <SP> O <SP> O O O O O	양에대한질문
+2 0 명 <SP> 되 는 데 <SP> 몇 <SP> 판 정 도 <SP> 하 면 <SP> 되 지 요 ?	B_인원 I_인원 I_인원 <SP> O O O <SP> O <SP> O O O <SP> O O <SP> O O O O	양에대한질문
+두 <SP> 조 각 <SP> 정 도 <SP> 먹 게 <SP> 해 야 <SP> 하 지 <SP> 않 겠 어 요 ? <SP> 초 등 학 교 <SP> 3 학 년 인 데	B_조각수 <SP> I_조각수 I_조각수 <SP> O O <SP> O O <SP> O O <SP> O O <SP> O O O O O <SP> B_연령대 I_연령대 I_연령대 I_연령대 <SP> I_연령대 I_연령대 I_연령대 O O	양에대한질문
+저 희 <SP> 선 생 님 은 <SP> 따 로 <SP> 하 려 고 <SP> 하 는 데 <SP> 선 생 님 <SP> 5 분 <SP> 되 면 은 ?	O O <SP> B_대상 I_대상 I_대상 O <SP> O O <SP> O O O <SP> O O O <SP> B_대상 I_대상 I_대상 <SP> B_인원 I_인원 <SP> O O O O	양에대한질문
+김 밥 <SP> 어 떤 <SP> 게 <SP> 맛 있 어 요 ?	B_메뉴 I_메뉴 <SP> O O <SP> O <SP> O O O O O	메뉴추천요청
+또 <SP> 어 떤 <SP> 김 밥 이 <SP> 맛 이 <SP> 있 어 요 ?	O <SP> O O <SP> B_메뉴 I_메뉴 O <SP> O O <SP> O O O O	메뉴추천요청
+어 떤 <SP> 김 밥 이 <SP> 맛 있 어 요 ?	O O <SP> B_메뉴 I_메뉴 O <SP> O O O O O	메뉴추천요청
+음 료 수 는 <SP> 따 로 <SP> 주 문 해 야 <SP> 되 지 요 ?	B_메뉴 I_메뉴 O O <SP> O O <SP> O O O O <SP> O O O O	음료주문
+그 러 면 <SP> 콜 라 <SP> 작 은 <SP> 거 <SP> 두 <SP> 개 <SP> 주 세 요	O O O <SP> B_음료 I_음료 <SP> B_사이즈 I_사이즈 <SP> I_사이즈 <SP> B_수량 <SP> I_수량 <SP> O O O	음료주문
+그 러 면 <SP> 5 0 0 짜 리 <SP> 하 나 <SP> 주 세 요	O O O <SP> B_사이즈 I_사이즈 I_사이즈 O O <SP> B_수량 I_수량 <SP> O O O	음료주문
+단 무 지 <SP> 하 나 만 <SP> 넣 어 주 세 요 <SP> 나 무 젓 가 락 도	B_반찬 I_반찬 I_반찬 <SP> B_수량 I_수량 O <SP> O O O O O <SP> B_비품 I_비품 I_비품 I_비품 I_비품 O	추가요청
+단 무 지 <SP> 하 나 <SP> 주 세 요	B_반찬 I_반찬 I_반찬 <SP> B_수량 I_수량 <SP> O O O	추가요청
+나 무 젓 가 락 <SP> 안 <SP> 넣 어 도 <SP> 됩 니 다	B_비품 I_비품 I_비품 I_비품 I_비품 <SP> O <SP> O O O <SP> O O O	추가요청
+짬 뽕 이 나 <SP> 간 짜 장 <SP> 중 에 <SP> 어 떤 <SP> 게 <SP> 잘 <SP> 나 가 나 요 ?	B_메뉴 I_메뉴 O O <SP> B_메뉴 I_메뉴 I_메뉴 <SP> O O <SP> O O <SP> O <SP> O <SP> O O O O O	베스트메뉴문의
+한 <SP> 세 트 에 <SP> 1 9 0 0 0 원 요 <SP> 그 <SP> 종 류 <SP> 말 고 <SP> 다 른 <SP> 거 <SP> 또 <SP> 뭐 <SP> 잘 <SP> 나 가 는 <SP> 거 <SP> 뭐 <SP> 있 어 요 ?	B_수량 <SP> I_수량 I_수량 O <SP> B_금액 I_금액 I_금액 I_금액 I_금액 I_금액 O <SP> O <SP> O O <SP> O O <SP> O O <SP> O <SP> O <SP> O <SP> O <SP> O O O <SP> O <SP> O <SP> O O O O	베스트메뉴문의
+여 기 는 <SP> 토 요 일 <SP> 일 요 일 도 <SP> 영 업 해 요 ?	O O O <SP> B_요일 I_요일 I_요일 <SP> B_요일 I_요일 I_요일 O <SP> O O O O O	휴일문의
+그 럼 <SP> 토 요 일 <SP> 일 요 일 도 <SP> 해 요 ?	O O <SP> B_요일 I_요일 I_요일 <SP> B_요일 I_요일 I_요일 O <SP> O O O	휴일문의
+메 뉴 판 <SP> 하 나 <SP> 주 시 겠 어 요 ?	B_비품 I_비품 I_비품 <SP> B_수량 I_수량 <SP> O O O O O O	메뉴판요청
+메 뉴 판 <SP> 따 로 <SP> 있 어 요 ?	B_비품 I_비품 I_비품 <SP> O O <SP> O O O O	메뉴판요청
+혼 자 <SP> 왔 는 데	B_인원 I_인원 <SP> O O O	1인식사자리요청
+혼 자 <SP> 왔 는 데 <SP> 여 기 <SP> 앉 을 까 요 ?	B_인원 I_인원 <SP> O O O <SP> B_위치 I_위치 <SP> O O O O O	1인식사자리요청
+그 럼 <SP> 국 내 산 <SP> 쓰 나 요 ?	O O <SP> B_원산지 I_원산지 I_원산지 <SP> O O O O	원산지문의
+국 내 산 <SP> 쓰 나 요 <SP> 아 니 면 <SP> 수 입 산 <SP> 쓰 나 요 ?	B_원산지 I_원산지 I_원산지 <SP> O O O <SP> O O O <SP> B_원산지 I_원산지 I_원산지 <SP> O O O O	원산지문의
+카 카 오 페 이 는 <SP> 결 제 가 <SP> 되 는 가 요 ?	B_결제방식 I_결제방식 I_결제방식 I_결제방식 I_결제방식 O <SP> O O O <SP> O O O O O	카카오페이삼성페이결제
+카 카 오 페 이 <SP> 이 런 <SP> 건 <SP> 안 <SP> 되 고 요 ?	B_결제종류 I_결제종류 I_결제종류 I_결제종류 I_결제종류 <SP> O O <SP> O <SP> O <SP> O O O O	카카오페이삼성페이결제
+그 렇 구 나 <SP> 배 달 에 는 <SP> 그 러 면 <SP> 무 하 고 <SP> 콜 라 하 고 <SP> 같 이 <SP> 들 어 가 고 요 ?	O O O O <SP> O O O O <SP> O O O <SP> B_반찬 O O <SP> B_음료 I_음료 O O <SP> O O <SP> O O O O O O	서비스문의
+그 러 니 까 <SP> 1 2 0 0 0 원 <SP> 프 라 이 드 <SP> 값 에 <SP> 소 스 가 <SP> 소 금 <SP> 나 가 고 <SP> 또 <SP> 포 장 하 면 <SP> 뭐 <SP> 있 어 요 ?	O O O O <SP> B_금액 I_금액 I_금액 I_금액 I_금액 I_금액 <SP> O O O O <SP> O O <SP> O O O <SP> B_양념 I_양념 <SP> O O O <SP> O <SP> O O O O <SP> O <SP> O O O O	서비스문의
+네 <SP> 명 이 요	B_인원 <SP> I_인원 O O	빈자리문의
+혼 자 인 데 <SP> 어 디 <SP> 앉 죠 ?	B_인원 I_인원 O O <SP> O O <SP> O O O	빈자리문의
+네 <SP> 그 리 고 <SP> 감 자 하 고 <SP> 치 즈 스 틱 은 <SP> 포 장 해 <SP> 주 세 요	O <SP> O O O <SP> B_사이드 I_사이드 O O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 O <SP> O O O <SP> O O O	포장주문
+여 기 가 <SP> 외 동 점 입 니 까 <SP> 내 동 점 입 니 까 ?	O O O <SP> B_지점명 I_지점명 I_지점명 O O O <SP> B_지점명 I_지점명 I_지점명 O O O O	매장확인
+한 <SP> 줄 은 <SP> 포 장 하 고 <SP> 한 <SP> 줄 은 <SP> 먹 고 <SP> 갈 까 요 ? <SP> 그 렇 게 도 <SP> 돼 요 ?	B_수량 <SP> I_수량 O <SP> O O O O <SP> B_수량 <SP> I_수량 O <SP> O O <SP> O O O O <SP> O O O O <SP> O O O	포장문의
+여 기 <SP> 칠 성 동 <SP> 1 가 인 데 <SP> 배 달 되 나 요 ?	O O <SP> B_배달지 I_배달지 I_배달지 <SP> I_배달지 I_배달지 O O <SP> O O O O O O	배달장소범위문의
+혹 시 <SP> 물 수 건 <SP> 있 어 요 ?	O O <SP> B_비품 I_비품 I_비품 <SP> O O O O	넵킨물수건요청
+그 냥 <SP> 일 반 <SP> 김 밥 을 <SP> 네 <SP> 줄 <SP> 주 세 요 <SP> 그 러 면 <SP> 총 <SP> 여 섯 <SP> 줄	O O <SP> B_메뉴 I_메뉴 <SP> I_메뉴 I_메뉴 O <SP> B_수량 <SP> I_수량 <SP> O O O <SP> O O O <SP> O <SP> O O <SP> O	주문변경
+김 철 범 입 니 다	B_예약자 I_예약자 I_예약자 O O O	예약자리문의
+만 두 를 <SP> 직 접 <SP> 바 로 <SP> 빚 으 시 네 요 ?	B_메뉴 I_메뉴 O <SP> O O <SP> O O <SP> O O O O O O	식재료공급문의
+중 자 에 <SP> 다 른 <SP> 거 는 <SP> 뭐 <SP> 안 <SP> 시 켜 도 <SP> 되 나 요 ?	B_사이즈 O O <SP> O O <SP> O O <SP> O <SP> O <SP> O O O <SP> O O O O	메뉴추가문의요청
+네 <SP> 그 <SP> 세 트 메 뉴 <SP> 주 문 하 면 <SP> 나 오 는 데 <SP> 시 간 은 <SP> 얼 마 쯤 <SP> 걸 려 요 ?	O <SP> O <SP> B_메뉴 I_메뉴 I_메뉴 I_메뉴 <SP> O O O O <SP> O O O O <SP> O O O <SP> O O O <SP> O O O O	주문메뉴대기시간문의
+안 에 <SP> 치 킨 <SP> 들 어 가 는 <SP> 건 <SP> 다 <SP> 똑 같 아 요 ?	O O <SP> B_재료 I_재료 <SP> O O O O <SP> O <SP> O <SP> O O O O O	특정재료가포함되는지문의
+단 무 지 <SP> 더 <SP> 많 이 <SP> 주 시 면 <SP> 안 돼 요 ?	B_반찬 I_반찬 I_반찬 <SP> O <SP> O O <SP> O O O <SP> O O O O	기본반찬요구
+만 약 에 <SP> 통 신 사 <SP> 카 드 <SP> 없 이 는 <SP> 할 인 <SP> 안 되 는 가 요 ?	O O O <SP> B_카드종류 I_카드종류 I_카드종류 <SP> I_카드종류 I_카드종류 <SP> O O O <SP> O O <SP> O O O O O O	할인문의
+여 기 <SP> 숟 가 락 <SP> 없 는 데 요	O O <SP> B_식기 I_식기 I_식기 <SP> O O O O	수저요청
+여 기 <SP> 청 양 고 추 <SP> 있 어 요 ?	O O <SP> B_반찬 I_반찬 I_반찬 I_반찬 <SP> O O O O	양념소스요구
+그 러 면 <SP> 후 식 은 <SP> 없 다 <SP> 그 죠 ?	O O O <SP> B_메뉴 I_메뉴 O <SP> O O <SP> O O O	후식문의
+음 료 수 도 <SP> 같 이 <SP> 주 셔 요 ?	B_메뉴 I_메뉴 O O <SP> O O <SP> O O O O	음료문의
+콜 라 <SP> 대 신 에 <SP> 커 피 <SP> 같 은 <SP> 거 <SP> 해 도 <SP> 되 나 요 ?	B_음료 I_음료 <SP> O O O <SP> B_음료 I_음료 <SP> O O <SP> O <SP> O O <SP> O O O O	세트메뉴중메뉴교환문의요청
+이 거 는 <SP> 무 슨 <SP> 국 물 이 에 요 ?	O O O <SP> O O <SP> B_재료 I_재료 O O O O	음식반찬소스이름문의
