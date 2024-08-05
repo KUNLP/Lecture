@@ -73,22 +73,22 @@ test_model(tokenizer,
 
 llm = HuggingFacePipeline(pipeline=query_pipeline)
 # checking again that everything is working fine
-llm(prompt="Please explain what is the State of the Union address. Give just a 		definition. Keep it in 100 words.")
+llm(prompt="Please explain what is the State of the Union address. Give just a definition. Keep it in 100 words.")
 
 loader = TextLoader(“../biden-sotu-2023-planned-official.txt",
                     	encoding="utf8")
 documents = loader.load()
 
 
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, 				chunk_overlap=20)
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=20)
 all_splits = text_splitter.split_documents(documents)
 
 model_name = "sentence-transformers/all-mpnet-base-v2"
 model_kwargs = {"device": "cuda"}
 
-embeddings = HuggingFaceEmbeddings(model_name=model_name, 			model_kwargs=model_kwargs)
+embeddings = HuggingFaceEmbeddings(model_name=model_name, model_kwargs=model_kwargs)
 
-vectordb = Chroma.from_documents(documents=all_splits, 				embedding=embeddings, persist_directory="chroma_db")
+vectordb = Chroma.from_documents(documents=all_splits, embedding=embeddings, persist_directory="chroma_db")
 
 retriever = vectordb.as_retriever()
 
